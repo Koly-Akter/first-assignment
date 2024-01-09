@@ -10,7 +10,7 @@ section {
 }
 
 .banner {
-    background-image: url("./Image/Banner\ Image.png");
+    background-image: url("./Image/Banner\ Image.webp");
     background-size: cover;
     background-position: center;
     border-radius: 12px;
@@ -56,7 +56,7 @@ section {
 }
 
 .party {
-    background-image: url("./Image/Vectorrr.png");
+    background-image: url("./Image/Vectorrr.webp");
     background-size: cover;
     background-position: center;
     border-radius: 12px;
